@@ -1,5 +1,5 @@
     <h1>📝 FSJ-Anmeldeplattform</h1>
-    <p><strong>Arbeitstitel:</strong> Anmeldeportal für FSJ-Bewerber</p>
+    <p>Anmeldeportal für FSJ-Bewerber</p>
     <p>Dieses Projekt wurde mit <strong>PHP</strong>, <strong>HTML</strong> und <strong>CSS</strong> entwickelt und beinhaltet eine <strong>MySQL-Datenbankanbindung</strong>.</p>
    <p>Das Projekt befindet sich noch <strong>in der Entwicklung</strong>. Die Speicherung der Daten in der Datenbank wird aktuell implementiert.</p>
 
