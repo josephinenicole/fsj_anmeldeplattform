@@ -29,7 +29,7 @@
 
     <h2>🖼️ Screenshots</h2>
     <p><strong>1. Startseite mit Pseudo-Login:</strong></p>
-    <img src="screenshot1.png" alt="Startseite mit Pseudo-Login" width="600">
+    <img src="https://github.com/josephinenicole/fsj_anmeldeplattform/blob/main/fsj_seite/screenshots/1.jpg?raw=true" alt="Startseite mit Pseudo-Login" width="600">
     
     <p><strong>2. Anmeldedaten-Eingabeformular:</strong></p>
     <img src="screenshot2.png" alt="Eingabeformular für Bewerberdaten" width="600">
