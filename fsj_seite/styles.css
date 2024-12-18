@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+} 
+        
+.gallery {
+    display: flex;
+    justify-content: space-evenly; /* Gleichmäßige Verteilung */
+    flex-wrap: wrap; /* Bilder umbrechen, wenn kein Platz mehr ist */
+    padding: 20px; /* Abstand zum Rand */
+}
+        
+.gallery img {
+    max-width: 20%; /* Bilder nehmen 20% der Breite */
+    height: auto; /* Automatische Höhe */
+    border: 2px solid #ddd; /* Rahmen */
+    border-radius: 5px; /* Abgerundete Ecken */
+    margin: 10px; /* Abstand zwischen Bildern */
+    transition: transform 0.2s, border-color 0.2s; /* Übergangseffekte */
+}
+        
+.gallery img:hover {
+    transform: scale(1.1); /* Vergrößern beim Hover */
+    border-color: #f00; /* Rahmenfarbe beim Hover */
+}
+        
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+p {
+    text-align: center;
+}
+
+.inline-form {
+    display: inline-block;
+    width: 100%;
+}
+        
+.inline-form input[type="radio"] {
+    display: inline-block;
+    margin-right: 10px; /* optional: Abstand zwischen den Radio-Buttons */
+}
+        
+.inline-form input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
